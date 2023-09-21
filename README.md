@@ -11,3 +11,8 @@ flutter_third routing işlemleri
 
 ![2023-09-20_15-49-44](https://github.com/ykakkaya/flutterBase/assets/100940437/f06428e9-1307-4603-878c-fc7033b9bcd9)
 
+flutter_fourth sayfalar arası veri transfer işlemleri
+
+![2023-09-21_11-49-04](https://github.com/ykakkaya/flutterBase/assets/100940437/f3f4d580-845d-4aae-94fd-6d0189d32fcc)
+
+
